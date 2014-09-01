@@ -6,5 +6,13 @@
 			"path": ".",
             "folder_exclude_patterns": [".sass-cache"]
 		}
-	]
+	],
+    "settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "/Users/mike/Projects/msteadman.github.io/_posts",
+            "drafts_path": "/Users/mike/Projects/msteadman.github.io/_drafts"
+        }
+    }
 }
