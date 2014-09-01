@@ -234,4 +234,13 @@
             font-size: 18px;
         }
     }
+
+    table {
+        margin-bottom: $spacing-unit;
+        border-collapse: collapse;
+
+        th, td {
+            border: 1px solid #ccc;
+        }
+    }
 }
